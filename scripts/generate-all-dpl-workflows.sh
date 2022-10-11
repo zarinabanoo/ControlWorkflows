@@ -129,3 +129,4 @@ check_pwd
 ./trd-qcmn-norawdatastats.sh
 ./trd-qcmn-notracklets.sh
 ./zdc-raw-qc.sh
+./trd-qcmn-postprocessing.sh
